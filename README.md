@@ -1,9 +1,9 @@
-npm init 
+=>  npm init 
 
-cd VRV
+=> cd VRV
 
-Generate The Connection String From Mongodb Compass or Atlas attach at mongoose.connect("Connection String")
+=> Generate The Connection String From Mongodb Compass or Atlas attach at mongoose.connect("Connection String")
 
-nodemon app.js
+=> nodemon app.js
 
-Postman/Thunderclient : POST Method => API End Points => http://localhost:{PORT}/{Route}/{DB}
+=> Postman/Thunderclient : POST Method => API End Points => http://localhost:{PORT}/{Route}/{DB}
