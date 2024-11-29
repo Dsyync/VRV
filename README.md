@@ -2,7 +2,7 @@
 
 => cd VRV
 
-=> Generate The Connection String From Mongodb Compass or Atlas attach at mongoose.connect("Connection String")
+=> Generate The Connection String From Mongodb Compass  attach at mongoose.connect("Connection String")
 
 => nodemon app.js
 
